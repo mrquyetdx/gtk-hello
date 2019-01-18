@@ -1,0 +1,3 @@
+src/Application.vala
+data/com.github.mrquyetdx.gtk-hello.desktop.in
+data/com.github.mrquyetdx.gtk-hello.appdata.xml.in
