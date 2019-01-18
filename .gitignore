@@ -2,3 +2,5 @@
 *.vala~
 
 *.desktop~
+
+src/Application
