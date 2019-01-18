@@ -30,7 +30,8 @@ public class MyApp : Gtk.Application {
 
     protected override void activate () {
         var button_hello = new Gtk.Button.with_label ("Click me!");
-        button_hello.margin = 12;
+        button_hello.halign = Gtk.Align.CENTER;
+        button_hello.valign = Gtk.Align.CENTER;
         button_hello.clicked.connect (() => {
             button_hello.label = "Hello World!";
             button_hello.sensitive = false;
