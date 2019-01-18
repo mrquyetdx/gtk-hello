@@ -4,3 +4,7 @@
 *.desktop~
 
 src/Application
+
+build/
+
+*.build~
