@@ -10,3 +10,11 @@ build/
 *.build~
 
 *.pot~
+
+*.dch~
+
+debian/changelog
+
+debian/control~
+
+debian/copyright~
